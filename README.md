@@ -108,4 +108,9 @@ In `config.lua`, you can modify `Config.Functions` to adapt to your specific inv
 If you have any questions, please contact **Toshi Dev**.
 ご質問等は、**Toshi Dev (とし)** までご連絡ください。
 
-**Created by Toshi Dev**
+---
+
+## 📄 License / ライセンス
+
+Distributed under the MIT License. See `LICENSE` for more information.
+本ソフトウェアは MIT ライセンスのもとで公開されています。詳細は `LICENSE` ファイルをご確認ください。
